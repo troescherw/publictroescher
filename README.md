@@ -2,5 +2,5 @@
 
 Für die Ausführung zuerst R, dann RStudio installieren
 
-* [R]: https://cran.r-project.org/bin/windows/base/
-* [RStudio]: https://www.rstudio.com/products/rstudio/download/
+* [R]: (https://cran.r-project.org/bin/windows/base/)
+* [RStudio]: (https://www.rstudio.com/products/rstudio/download/)
